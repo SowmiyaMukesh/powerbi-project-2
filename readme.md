@@ -1,5 +1,8 @@
 ## Retail Sales Performance Dashboard (Power BI)
 
+## Live dashboard
+https://app.powerbi.com/view?r=eyJrIjoiODNkZjE0MTEtNGNlZC00NjBhLTg2YzYtYzliOTg2Y2E0MTVhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 # Project Overview
 
 In this project, I worked on a retail grocery dataset and built an interactive Power BI dashboard to analyze sales performance across different outlet types, locations, and product categories.
